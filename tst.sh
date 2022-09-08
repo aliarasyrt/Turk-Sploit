@@ -1,9 +1,9 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
-#Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#Code:Arassy
+#7777
+#İnstagram : @arassy7777
+#Youtube : AroFlex304
 clear
 case $1 in
 
@@ -63,9 +63,9 @@ echo -e '\033[31;40;1m
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
 
-	   \e[35m☾★ ☾★ ☾★ ☾★ YamanEfkar ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ ArassyPT ☾★ ☾★ ☾★ ☾★	
 	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Siber Timi ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @turksibertimi ☾★ ☾★ ☾★ ☾★	
+  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @arassy7777 ☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
